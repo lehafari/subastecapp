@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcliente=self.webpackChunkcliente||[]).push([[946],{40946:function(e,r,s){s.r(r);var t=s(56355),u=s(49677),i=s(54984),n=s(10449),o=s(15597),l=s(80184);r.default=function(){return(0,n.Z)({rolesPermisos:[o.F0],urlReturn:"/home"}),(0,l.jsx)(u.Z,{titulo:"Usuarios",Icon:t.Cb3,btnBackUrl:"/home",btnBackText:"Ir al Inicio",breadCrumb:[{titulo:"Usuarios"}],children:(0,l.jsx)(i.Z,{idrol:o.qp,urlRequest:"/administradores/getUsuarios"})})}}}]);
+//# sourceMappingURL=946.b0b70a6e.chunk.js.map

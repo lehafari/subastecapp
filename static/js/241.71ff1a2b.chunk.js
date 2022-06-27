@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcliente=self.webpackChunkcliente||[]).push([[241],{86241:function(e,t,r){r.r(t);var s=r(56355),u=r(49677),c=r(78085),n=r(10449),o=r(15597),i=r(80184);t.default=function(){return(0,n.Z)({rolesPermisos:[o.F0],urlReturn:"/home"}),(0,i.jsx)(u.Z,{titulo:"Articulos",descripcion:"\xa1Administra los articulos de subastec!",Icon:s.nO,btnBackUrl:"/home",btnBackText:"Ir al Inicio",breadCrumb:[{titulo:"Productos"}],children:(0,i.jsx)(c.Z,{urlRequest:"/productos"})})}}}]);
+//# sourceMappingURL=241.71ff1a2b.chunk.js.map
